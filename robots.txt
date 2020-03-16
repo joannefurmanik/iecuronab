@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahtooyowu.fortisauris.com/sitemap.xml
